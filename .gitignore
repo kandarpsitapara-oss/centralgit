@@ -1,4 +1,4 @@
-* .css
-* .java
-* .python
-* .Dockerfile
+*.css
+*.java
+*.python
+*.Dockerfile
